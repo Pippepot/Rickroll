@@ -36,7 +36,7 @@ namespace RickRoll
                 sessionTokenHandle = SessionFinder.GetLocalInteractiveSession();
                 if (sessionTokenHandle != IntPtr.Zero)
                 {
-                    ProcessLauncher.StartProcessAsUser("cmd.exe", "cmd.exe /C start iexplore https://www.youtube.com/watch?v=dQw4w9WgXcQ", sessionTokenHandle);
+                    ProcessLauncher.StartProcessAsUser("cmd.exe", "cmd.exe /C start iexplore https://www.youtube.com/watch?v=oHg5SJYRHA0&t=1s", sessionTokenHandle);
                 }
             }
             finally
