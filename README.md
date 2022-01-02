@@ -22,4 +22,4 @@ If you have made any changes to the program, you can build it and find the RickR
 ## Video explaining the project
 If you are still in need I have made a video walking through the process
 
-[![Video explaining the project](https://i9.ytimg.com/vi/wh1MN_Jsndc/mqdefault.jpg?v=5fb14268&sqp=CNy7po4G&rs=AOn4CLAesmoawAz5_iyl1wyR6JKJtk8C_Q)](https://www.youtube.com/watch?v=wh1MN_Jsndc&ab_channel=Pippe)
+[![Video explaining the project](https://img.youtube.com/vi/wh1MN_Jsndc/0.jpg)](https://www.youtube.com/watch?v=wh1MN_Jsndc)
